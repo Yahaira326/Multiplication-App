@@ -1,2 +1,2 @@
 # Multiplication-App
-A multiplication app that helps children practice their math skills.
+A multiplication app that helps children practice their math skills. It features a question section, an input section, a submit button, and a score section. The question section displays a random multiplication question every time the page refreshes, and the user can answer in the input section. If the answer is correct, their score increases by one, and the next question appears. However, if the answer is incorrect, the score decreases by one.
