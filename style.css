@@ -8,6 +8,7 @@ body {
   background-color: yellow;
   font-family: cursive;
 }
+
 .form {
   background-color: white;
   padding: 20px;
@@ -15,6 +16,7 @@ body {
   border-radius: 10px;
   margin: 10px;
 }
+
 .input {
   display: block;
   width: 100%;
@@ -25,10 +27,12 @@ body {
   border: solid 4px green;
   color: green;
 }
+
 .input::placeholder {
   color: lightgray;
   font-family: cursive;
 }
+
 .btn {
   background-color: green;
   color: white;
@@ -43,9 +47,11 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
+
 .btn:hover {
   filter: brightness(0.9);
 }
+
 .score {
   color: green;
   text-align: right;
